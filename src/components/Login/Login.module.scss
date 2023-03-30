@@ -1,0 +1,36 @@
+.login-wrapper {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    margin-left: 82px;
+}
+.login-form {
+    width: 100%;
+    // flex-direction: column;
+}
+
+.form-remember-pass{
+    max-width: 130px;
+}
+
+.login-btn {
+    color: #000;
+    background: antiquewhite;
+    border-radius: 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 214px;
+}
+
+.login-btn:hover {
+    color: #d98e8e;
+}
+
+.placehoder-name {
+    outline: none;
+}
+
+
+

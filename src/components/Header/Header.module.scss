@@ -1,0 +1,27 @@
+.nav-header {
+    box-shadow: 0px 1px 1px rgb(0 0 0 / 12%);
+    background-color: #e1cdcd;
+}
+.login {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header {
+    display: flex;
+    flex: 1;
+    
+}
+
+.header-name {
+    display: flex;
+    color:  #fff;
+    padding-left: 12px;
+    align-items: end;
+}
+
+
+.header-logo-name {
+    display: flex;
+    flex: 2;
+}
